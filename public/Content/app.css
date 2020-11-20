@@ -345,10 +345,9 @@ section .title::after{
 
 }
 #services{
-  padding-left: 120px;
-
-
+  padding-left: 90px;
 }
+
 .services .serv-content .card:hover{
   background: crimson;
 
@@ -383,7 +382,7 @@ section .title::after{
 
 .skills .skills-content .right .bars{
   margin-bottom: 15px;
-  margin-left:  140px;
+  margin-left:  100px;
   margin-top: 50px;
 }
 .skills .skills-content .right .info{
